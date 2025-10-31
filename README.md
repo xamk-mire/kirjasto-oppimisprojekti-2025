@@ -1,4 +1,4 @@
-# Kirjaston-lainaus-ja-palautus-oppimisprojekti-2024
+# Kirjaston-lainaus-ja-palautus-oppimisprojekti-2025
 
 Oppimisprojekti on täysin opiskelijan itsenäinen suoritus ja ratkaisuihin tarvittavaan materiaaliin perehtyminen sekä niiden löytäminen on osa suoritusta. Projektilla siis harjoitellaan ja opitaan myös itsenäisiä tiedonhaun ja dokumentaation lukemisen taitoja, joka on keskeinen osa sovellusohjelmoijan osaamista. 
 
